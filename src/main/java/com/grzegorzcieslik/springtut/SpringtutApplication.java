@@ -1,6 +1,6 @@
-package com.grzegorzcieslik.sprtingtut;
+package com.grzegorzcieslik.springtut;
 
-import com.grzegorzcieslik.sprtingtut.student.Student;
+import com.grzegorzcieslik.springtut.student.Student;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -12,10 +12,10 @@ import java.util.List;
 
 @SpringBootApplication
 @RestController
-public class SprtingtutApplication {
+public class SpringtutApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SprtingtutApplication.class, args);
+		SpringApplication.run(SpringtutApplication.class, args);
 	}
 
 	@GetMapping

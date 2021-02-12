@@ -1,10 +1,10 @@
-package com.grzegorzcieslik.sprtingtut;
+package com.grzegorzcieslik.springtut;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SprtingtutApplicationTests {
+class SpringtutApplicationTests {
 
 	@Test
 	void contextLoads() {

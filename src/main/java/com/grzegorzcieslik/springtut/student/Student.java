@@ -1,4 +1,4 @@
-package com.grzegorzcieslik.sprtingtut.student;
+package com.grzegorzcieslik.springtut.student;
 
 import java.time.LocalDate;
 
